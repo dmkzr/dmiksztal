@@ -1,5 +1,9 @@
 img.animated-gif{
-    width: 700px;
+    width: 500px;
     height: auto;
   }
 
+  img.project-cover{
+    width: 300px;
+    height: auto;
+  }
